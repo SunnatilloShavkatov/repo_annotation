@@ -1,7 +1,7 @@
 name: repo_annotation
-description: A new Flutter project.
+description: Repository class code generation.
 version: 0.0.1
-publish_to: none
+homepage: https://github.com/SunnatilloShavkatov/repo_annotation.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
